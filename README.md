@@ -26,7 +26,7 @@ Dataset generated from **Synthea**, a synthetic patient generator for healthcare
 ## 📊 Power BI Dashboard
 
 You can download the interactive Power BI report here:  
-👉 [Download Power BI Dashboard (.pbix)]((https://drive.google.com/file/d/1Sv9lxH96HGsVZHhAJFUOequg4v8po-v4/view?usp=drive_link))
+👉 [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1Sv9lxH96HGsVZHhAJFUOequg4v8po-v4/view?usp=drive_link)
 
 *(File size: 45 MB — hosted externally due to GitHub’s 25 MB file limit)*
 
