@@ -45,12 +45,14 @@ Dataset generated from **Synthea**, a synthetic patient generator for healthcare
 ---
 
 ## 📂 Repository Structure
-PowerBI_COVID19_Healthcare_Project/
-│
-├── COVID_Healthcare_Dashboard.pbix # Power BI dashboard file
-├── DAX_Measures.md # All calculated measures with explanations
-├── README.md # Project documentation (this file)
-└── /images # Screenshots or visuals of the dashboard
+* PowerBI_COVID19_Healthcare_Project/
+      * README.md # Project documentation (this file)
+  * docs/
+         * COVID_Healthcare_Dashboard.pbix # Power BI dashboard file
+         * DAX_Measures.md # All calculated measures with explanations [Analysis](docs/DAX_Measures.md)
+         * Main Dashboard result [Dashboard](docs/main_dashboard.png)
+      
+ /images # Screenshots or visuals of the dashboard
 
 
 ---
